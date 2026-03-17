@@ -35,3 +35,4 @@
 - [Provisioned throughput](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
 - [Provisioned throughut model units are not clearly defined](https://repost.aws/questions/QUFY3RP2J8RJqbt4u6QyKIdw/can-somebody-explain-bedrock-provisioned-throughput)
 - [Inference profiles](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-profiles-support.html)
+- [Prompt caching](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
