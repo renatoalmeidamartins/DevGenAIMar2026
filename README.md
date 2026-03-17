@@ -18,8 +18,6 @@
 - [Features supported by model](https://docs.aws.amazon.com/bedrock/latest/userguide/models-features.html)
 - [Models supported](https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html)
 - [Ways to deploy custom models](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
-
-
 - [Developer tools](https://aws.amazon.com/products/developer-tools/)
 - [AWS builder center](https://builder.aws.com/build/tools#SDKs)
 - [Bedrock API](https://docs.aws.amazon.com/cli/latest/reference/bedrock/)
