@@ -31,4 +31,4 @@
 - [What is prompt engineering](https://aws.amazon.com/what-is/prompt-engineering/)
 - [Prompting tips for the various model families](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
 - [Another interesting collection of prompting techniquers](https://www.promptingguide.ai/)
-
+- [Batch inference examples in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference-example.html)
