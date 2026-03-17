@@ -22,7 +22,7 @@
 - [AWS builder center](https://builder.aws.com/build/tools#SDKs)
 - [Bedrock API](https://docs.aws.amazon.com/cli/latest/reference/bedrock/)
 - [Bedrock runtime API](https://docs.aws.amazon.com/cli/latest/reference/bedrock-runtime/)
-- [API keys introduced in Bedrock in July 2025](aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/)
+- [API keys introduced in Bedrock in July 2025](https://aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/)
 - [Inference request parameters and response fields for foundation models](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters.html)
 - [Announcement of the Converse API back in May 2024](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-new-converse-api/)
 - [Prompt design guide on AWS](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
