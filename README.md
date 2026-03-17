@@ -38,3 +38,4 @@
 - [Prompt caching](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
 - [Chunking](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-chunking.html)
 - [Message element, as used in Converse or ConverseStream APIs](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Message.html#bedrock-Type-runtime_Message-content), notice the limitations on number and size of images and documents. Document source can either be "inline" or an S3 object reference.
+- [Example using langchain and DynamoDB for message history](https://aws.amazon.com/blogs/database/build-a-scalable-context-aware-chatbot-with-amazon-dynamodb-amazon-bedrock-and-langchain/), keep in mind that the latest version of langchain (as of March 2026) doesn't have that class anymore.
