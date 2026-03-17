@@ -37,3 +37,4 @@
 - [Inference profiles](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-profiles-support.html)
 - [Prompt caching](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
 - [Chunking](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-chunking.html)
+- [Message element, as used in Converse or ConverseStream APIs](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Message.html#bedrock-Type-runtime_Message-content), notice the limitations on number and size of images and documents. Document source can either be "inline" or an S3 object reference.
