@@ -10,3 +10,4 @@
 - [Sagemaker's built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [Kiro agentic IDE](https://kiro.dev/)
 - [Developer tools](https://aws.amazon.com/products/developer-tools/)
+- [AWS builder center](https://builder.aws.com/build/tools#SDKs)
