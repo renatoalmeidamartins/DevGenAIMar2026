@@ -5,7 +5,7 @@
 - Full doc with support is [here](myClass%20Classroom%20Training%20Learner%20Guide.pdf)
 - Skillbuilder, massive portal with courses, labs, exam practices. Most are free, some require a monthly fee (29 USD/month): [https://skillbuilder.aws/](https://skillbuilder.aws/)
 - [Direct link to the builder labs](https://us-east-1.student.classrooms.aws.training/class/ilt%23k3vS6vqvcep9qcwxRoPKjC)
-# Class links
+# Day 1 links
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Sagemaker's built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [Kiro agentic IDE](https://kiro.dev/)
@@ -17,6 +17,7 @@
 - [CountTokens API in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/count-tokens.html)
 - [Features supported by model](https://docs.aws.amazon.com/bedrock/latest/userguide/models-features.html)
 - [Models supported](https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html)
+- [What are transformers?](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Ways to deploy custom models](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
 - [Developer tools](https://aws.amazon.com/products/developer-tools/)
 - [AWS builder center](https://builder.aws.com/build/tools#SDKs)
