@@ -9,3 +9,4 @@
 - [Neura network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Sagemaker's built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [Kiro agentic IDE](https://kiro.dev/)
+- [Developer tools](https://aws.amazon.com/products/developer-tools/)
