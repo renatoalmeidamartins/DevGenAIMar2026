@@ -32,3 +32,4 @@
 - [Prompting tips for the various model families](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
 - [Another interesting collection of prompting techniquers](https://www.promptingguide.ai/)
 - [Batch inference examples in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference-example.html)
+- [Provisioned throughut model units are not clearly defined](https://repost.aws/questions/QUFY3RP2J8RJqbt4u6QyKIdw/can-somebody-explain-bedrock-provisioned-throughput)
