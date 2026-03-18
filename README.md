@@ -56,3 +56,5 @@
 - [Prompt routing](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
 - [Latency-optimization for inference](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
 - [Responsible AI on AWS](https://aws.amazon.com/ai/responsible-ai/)
+- [OWASP Top 10 for LLM](https://genai.owasp.org/llm-top-10/)
+- [Investigating LLM Jailbreaking of Popular Generative AI Web Products](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/)
