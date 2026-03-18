@@ -55,3 +55,4 @@
 - [Available metrics in RAGas](https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/)
 - [Prompt routing](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
 - [Latency-optimization for inference](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
+- [Responsible AI on AWS](https://aws.amazon.com/ai/responsible-ai/)
