@@ -58,3 +58,5 @@
 - [Responsible AI on AWS](https://aws.amazon.com/ai/responsible-ai/)
 - [OWASP Top 10 for LLM](https://genai.owasp.org/llm-top-10/)
 - [Investigating LLM Jailbreaking of Popular Generative AI Web Products](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/)
+- [Well architected framwework pillars](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)
+- [Responsible AI under the GenAI lens of the well-architected framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/responsible-ai.html)
