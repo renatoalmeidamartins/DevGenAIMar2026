@@ -52,3 +52,6 @@
 - [Built-in prompt datasets for model evaluation](https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide/model-evaluation-prompt-datasets-builtin.html)
 - [RAGas, for evaluating RAG](https://docs.ragas.io/en/stable/)
 - [Generic machine learning evaluation metrics](https://docs.aws.amazon.com/sagemaker/latest/dg/canvas-metrics.html)
+- [Available metrics in RAGas](https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/)
+- [Prompt routing](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+- [Latency-optimization for inference](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
