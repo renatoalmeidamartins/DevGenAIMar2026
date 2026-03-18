@@ -60,3 +60,5 @@
 - [Investigating LLM Jailbreaking of Popular Generative AI Web Products](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/)
 - [Well architected framwework pillars](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)
 - [Responsible AI under the GenAI lens of the well-architected framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/responsible-ai.html)
+- [Repo with sample flows](https://github.com/aws-samples/amazon-bedrock-flows-samples)
+- [Agentcore samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples/)
