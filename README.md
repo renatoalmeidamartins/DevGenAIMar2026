@@ -50,3 +50,5 @@
 - [FMEval - library for evaluating LLMs](https://github.com/aws/fmeval)
 - [Evaluate the text summarization capabilities of LLMs for enhanced decision-making on AWS](https://aws.amazon.com/blogs/machine-learning/evaluate-the-text-summarization-capabilities-of-llms-for-enhanced-decision-making-on-aws/)
 - [Built-in prompt datasets for model evaluation](https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide/model-evaluation-prompt-datasets-builtin.html)
+- [RAGas, for evaluating RAG](https://docs.ragas.io/en/stable/)
+- [Generic machine learning evaluation metrics](https://docs.aws.amazon.com/sagemaker/latest/dg/canvas-metrics.html)
