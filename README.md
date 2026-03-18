@@ -40,3 +40,8 @@
 - [Message element, as used in Converse or ConverseStream APIs](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Message.html#bedrock-Type-runtime_Message-content), notice the limitations on number and size of images and documents. Document source can either be "inline" or an S3 object reference.
 - [Example using langchain and DynamoDB for message history](https://aws.amazon.com/blogs/database/build-a-scalable-context-aware-chatbot-with-amazon-dynamodb-amazon-bedrock-and-langchain/), keep in mind that the latest version of langchain (as of March 2026) doesn't have that class anymore.
 - [Langchain docs](https://docs.langchain.com/)
+# Day 2 links
+- [Strands SDK for building agents](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
+- Some additional Agentic frameworks are: [SemanticKernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/), [LlamaIndex](https://www.llamaindex.ai/). [CrewAI](https://docs.crewai.com/), 
+- [REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
+- [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/pdf/2305.18323)
