@@ -62,3 +62,6 @@
 - [Responsible AI under the GenAI lens of the well-architected framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/responsible-ai.html)
 - [Repo with sample flows](https://github.com/aws-samples/amazon-bedrock-flows-samples)
 - [Agentcore samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples/)
+- [Model Context Protocol - MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [Make agents a reality with Amazon Bedrock AgentCore: Now generally available](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/)
+- [Bedrock AgentCore Starter Toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
