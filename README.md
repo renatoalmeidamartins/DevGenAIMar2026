@@ -65,3 +65,5 @@
 - [Model Context Protocol - MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [Make agents a reality with Amazon Bedrock AgentCore: Now generally available](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/)
 - [Bedrock AgentCore Starter Toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
+- [Agents for Amazon Bedrock now support memory retention and code interpretation (preview)](https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-now-support-memory-retention-and-code-interpretation-preview/)
+- [Import bedrock agents into agentcore](https://github.com/aws/bedrock-agentcore-starter-toolkit/blob/main/documentation/docs/user-guide/import-agent/overview.md)
