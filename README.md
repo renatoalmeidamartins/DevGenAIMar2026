@@ -45,3 +45,7 @@
 - Some additional Agentic frameworks are: [SemanticKernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/), [LlamaIndex](https://www.llamaindex.ai/). [CrewAI](https://docs.crewai.com/), 
 - [REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
 - [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/pdf/2305.18323)
+- [BERTScore](https://arxiv.org/pdf/1904.09675)
+- [List of LLM eval metrics compiled inside Microsoft Learn](https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/evaluation/list-of-eval-metrics)
+- [FMEval - library for evaluating LLMs](https://github.com/aws/fmeval)
+- [Evaluate the text summarization capabilities of LLMs for enhanced decision-making on AWS](https://aws.amazon.com/blogs/machine-learning/evaluate-the-text-summarization-capabilities-of-llms-for-enhanced-decision-making-on-aws/)
